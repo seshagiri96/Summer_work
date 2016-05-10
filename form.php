@@ -9,8 +9,8 @@
 
 	// user credentials
 	$servername = "localhost";
-	$username = "devloper";
-	$password = "devloper";
+	$username = "username";
+	$password = "password";
 	$db = "mydb";
 
 	$conn = new mysqli($servername,$username,$password,$db);
